@@ -44,7 +44,6 @@ div.table-title {
 }
 
 
-/*** Table Styles **/
 
 .table-fill {
   background: white;
@@ -177,14 +176,14 @@ footer {
     }
 }
 
-/* Стили для планшетов и десктопов */
+
 @media (min-width: 481px) {
-    /* Дополнительные стили при необходимости */
+   
 }
 .round {
-    border-radius: 100px; /* Радиус скругления */
-    border: 3px solid green; /* Параметры рамки */
-    box-shadow: 0 0 7px #666; /* Параметры тени */
+    border-radius: 100px; 
+    border: 3px solid green; 
+    box-shadow: 0 0 7px #666; 
    }
 img { 
     width: 300px;
@@ -204,9 +203,9 @@ section {
   justify-content: center;
 }
 .image-container img {
-  margin: 0 10px; /* добавляем отступы между картинками */
-  width: 200px; /* настройте размеры картинок по вашему усмотрению */
-  height: auto; /* настройте размеры картинок по вашему усмотрению */
+  margin: 0 10px; 
+  width: 200px; 
+  height: auto; 
 }
   
   #cross{
