@@ -40,9 +40,9 @@ li {
         margin-bottom: 10px;
     }
 }
-/* Стили для планшетов и десктопов */
+
 @media (min-width: 481px) {
-    /* Дополнительные стили при необходимости */
+  
 }
 footer {
     background-color: #333;
